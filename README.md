@@ -11,13 +11,15 @@ It is designed to deliver *data-driven weather insights* through a clean, modern
 
 ## 🚀 Key Features
 
-## 🌍 Multi-City Analysis
+### 🌍 Multi-City Analysis
 - Supports multiple cities including:
   - Indore, Mumbai, Pune, Nagpur, Bangalore
 - Dynamic city selection using slicers
 - Real-time updates based on selected location
 
-## 🌡️ Current Weather Insights
+---
+
+### 🌡️ Current Weather Insights
 - Displays:
   - Current temperature (°C)
   - Weather condition (Sunny, Rainy, etc.)
@@ -26,7 +28,7 @@ Last updated timestamp
 
 ---
 
-## 📅 7-Day Weather Forecast
+### 📅 7-Day Weather Forecast
 - Line chart visualization of temperature trends
 - Enables users to:
   - Identify temperature fluctuations
@@ -34,13 +36,13 @@ Last updated timestamp
 
 ---
 
-## 🌧️ Rain Probability Analysis
+### 🌧️ Rain Probability Analysis
 - Bar chart representing daily chance of rain (%)
 - Helps in planning activities based on weather conditions
 
 ---
 
-## 🌅 Sunrise & Sunset Tracking
+### 🌅 Sunrise & Sunset Tracking
 - Displays:
   - Sunrise time
   - Sunset time
@@ -48,7 +50,7 @@ Last updated timestamp
 
 ---
 
-## 🌬️ Atmospheric Conditions
+### 🌬️ Atmospheric Conditions
 Key environmental metrics presented using KPI cards:
 - Humidity
 - Wind Speed
@@ -59,7 +61,7 @@ Key environmental metrics presented using KPI cards:
 
 ---
 
-## 🌫️ Air Quality Monitoring (AQI)
+### 🌫️ Air Quality Monitoring (AQI)
 - Gauge chart indicating AQI level (e.g., Moderate, Good, Poor)
 -Detailed pollutant breakdown:
   - PM2.5
@@ -71,7 +73,7 @@ Key environmental metrics presented using KPI cards:
 
 ---
 
-## 🔗 Data Source
+### 🔗 Data Source
 - Weather data is fetched using a REST API from:
     - https://www.weatherapi.com/
 - Data includes:
@@ -81,7 +83,7 @@ Key environmental metrics presented using KPI cards:
 
 ---
 
-## ⚙️ Data Processing
+### ⚙️ Data Processing
 - Power Query (ETL Process)
 - Extracted JSON data from API
 - Transformed nested structures into tabular format
@@ -90,7 +92,7 @@ Key environmental metrics presented using KPI cards:
 
 ---
 
-## 🎨 Dashboard Design
+### 🎨 Dashboard Design
 - Modern dark theme UI
 - Gradient color schemes for better visual hierarchy
 - Icon-based indicators for intuitive understanding
@@ -98,14 +100,14 @@ Key environmental metrics presented using KPI cards:
 
 ---
 
-## 🔄 Interactivity
+### 🔄 Interactivity
 - Dynamic filtering using slicers
 - Cross-filtering across visuals
 - Real-time updates based on user selection
 
 ---
 
-## 📊 Tools & Technologies
+### 📊 Tools & Technologies
 - Microsoft Power BI
 - Power Query (Data Transformation)
 - REST API Integration
@@ -113,12 +115,12 @@ Key environmental metrics presented using KPI cards:
 
 ---
 
-## 📷 Dashboard Preview
+### 📷 Dashboard Preview
 image
 
 ---
 
-## 🎯 Use Cases
+### 🎯 Use Cases
 - Weather monitoring and analysis
 - Travel planning
 - Environmental awareness
@@ -126,7 +128,7 @@ image
 
 ---
 
-## 🧠 Learnings & Outcomes
+### 🧠 Learnings & Outcomes
 - API integration within Power BI
 - Handling semi-structured (JSON) data
 - Designing interactive dashboards
@@ -134,7 +136,7 @@ image
 
 ---
 
-## 🔮 Future Enhancements
+### 🔮 Future Enhancements
 - Add real-time alerts (extreme weather warnings)
 - Historical weather trend analysis
 - Mobile-optimized dashboard layout
@@ -142,6 +144,6 @@ Integration with additional APIs for extended insights
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 - LinkedIn Profile: https://www.linkedin.com/in/prakhar-patil-3b822319b
 - LinkedIn Project post: 
