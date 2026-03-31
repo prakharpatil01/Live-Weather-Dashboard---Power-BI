@@ -116,7 +116,7 @@ Key environmental metrics presented using KPI cards:
 ---
 
 ### 📷 Dashboard Preview
-image
+![Add your screenshot here](https://github.com/prakharpatil01/Live-Weather-Dashboard---Power-BI/blob/master/Weather%20Dashboard%20Demo.png)
 
 ---
 
