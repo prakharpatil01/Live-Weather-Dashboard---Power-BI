@@ -146,4 +146,4 @@ Integration with additional APIs for extended insights
 
 ### 📬 Contact
 - LinkedIn Profile: https://www.linkedin.com/in/prakhar-patil-3b822319b
-- LinkedIn Project post: 
+- LinkedIn Project post: https://www.linkedin.com/posts/prakhar-patil-3b822319b_powerbi-dataanalytics-datavisualization-share-7444730111100342273-7rnB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7XQHwByJbhi-uNv0VoTcGVkkQ_B3qa2OQ
